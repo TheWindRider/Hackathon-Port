@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Google ADK generated files
+.adk/
+
+# Local IDE files
+.idea/
+.vscode/
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+.devin/port_mcp_token.txt
+.devin/mcp_config.local.json
